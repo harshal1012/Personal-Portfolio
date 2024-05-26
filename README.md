@@ -19,4 +19,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshal/Personal-Github.git
+   git clone https://github.com/harshal1012/Personal-Github.git

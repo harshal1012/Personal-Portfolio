@@ -12,7 +12,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. The 
 - **Responsive Design:** Optimized for desktop and mobile devices.
 
 ## Live Demo
-You can view the live demo of my portfolio [Link]("harshal1012.github.io/Personal-Portfolio/).
+You can view the live demo of my portfolio [Link](harshal1012.github.io/Personal-Portfolio/).
 
 ## Installation
 To run this project locally, follow these steps:
